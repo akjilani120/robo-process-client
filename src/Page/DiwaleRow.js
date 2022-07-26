@@ -12,7 +12,7 @@ const DiwaleRow = ({song , index}) => {
            
           });
          
-      sound.play(id);
+      sound.play();
         
        
          
