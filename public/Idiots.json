@@ -1,0 +1,19 @@
+[
+    {
+        "audioSong" : "https://pagalfree.com/musics/128-Aal%20Izz%20Well%20-%203%20Idiots%20128%20Kbps.mp3",
+        "songTitle" : "Aal Izz Well ",
+        "singer" : "Sonu Nigam , Swanand Kirkire , Shaan",
+        "actorMale" :"Amir Khan ",
+        "movieName" : "3 Idiots"     
+        
+    },
+    {
+        "audioSong" : "https://pagalfree.com/musics/128-Give%20Me%20Some%20Sunshine%20-%203%20Idiots%20128%20Kbps.mp3",
+        "songTitle" : "Give Me Some Sunshine",
+        "singer" : "Suraj Jagan , Sharman Joshi",
+        "actorMale" :"Amir Khan ",
+        "actorFemale" :"Kajol",
+        "movieName" : "3 Idiots"
+       
+    }
+]

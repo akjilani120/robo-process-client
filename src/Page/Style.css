@@ -1,0 +1,9 @@
+.movies-header{
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+.movie-name{
+    font-size: 25px;
+}

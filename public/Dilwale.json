@@ -1,0 +1,20 @@
+[
+    {
+        "audioSong" : "https://pagalsong.in/uploads/systemuploads/mp3/Dilwale%20(2015)/Gerua%20[320%20kbps].mp3",
+        "songTitle" : "Gerua",
+        "singer" : "Arijit Singh,Antara Mitra",
+        "actorMale" :"Shah Rukh khan ",
+        "actorFemale" :"Kajol",
+        "movieName" : "Dilwale"
+       
+    },
+    {
+        "audioSong" : "https://pagalsong.in/uploads/systemuploads/mp3/Dilwale%20(2015)/Janam%20Janam%20[320%20kbps].mp3",
+        "songTitle" : "Janam Janam",
+        "singer" : "Arijit Singh,Antara Mitra",
+        "actorMale" :"Shah Rukh khan ",
+        "actorFemale" :"Kajol",
+        "movieName" : "Dilwale"
+       
+    }
+]
