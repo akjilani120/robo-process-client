@@ -12,10 +12,18 @@
         "audioSong" : "https://pagalfree.com/musics/128-Give%20Me%20Some%20Sunshine%20-%203%20Idiots%20128%20Kbps.mp3",
         "songTitle" : "Give Me Some Sunshine",
         "singer" : "Suraj Jagan , Sharman Joshi",
-        "actorMale" :"Amir Khan ",
-        "actorFemale" :"Kajol",
+        "actorMale" :"Amir Khan ",       
         "movieName" : "3 Idiots",
         "image" : "https://i.ytimg.com/vi/t--Q-XpFZFA/hqdefault.jpg"
+       
+    },
+    {
+        "audioSong" : "https://pagalfree.com/musics/128-Jaane%20Nahin%20Denge%20Tujhe%20-%203%20Idiots%20128%20Kbps.mp3",
+        "songTitle" : "Jaane Nahin Denge Tujhe",
+        "singer" : "Sonu Nigam ",
+        "actorMale" :"Amir Khan ",       
+        "movieName" : "3 Idiots",
+        "image" : "https://a10.gaanacdn.com/gn_img/albums/01A3mrWNQX/1A3mV4AGWN/size_l.webp"
        
     }
 ]

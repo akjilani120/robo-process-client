@@ -14,6 +14,13 @@
     margin-bottom: 40px;
     
 }
+.row-head{
+    cursor: pointer;
+}
+.song-image{
+    width: 100px;
+    height: 50px;
+}
 @media screen and (max-width: 550px) {
     .movie-name{
         font-size: 20px;

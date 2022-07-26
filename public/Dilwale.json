@@ -5,7 +5,8 @@
         "singer" : "Arijit Singh,Antara Mitra",
         "actorMale" :"Shah Rukh khan ",
         "actorFemale" :"Kajol",
-        "movieName" : "Dilwale"
+        "movieName" : "Dilwale",
+        "image" : "https://i.ytimg.com/vi/pRCQEI4GGr8/maxresdefault.jpg"
        
     },
     {
@@ -14,7 +15,18 @@
         "singer" : "Arijit Singh,Antara Mitra",
         "actorMale" :"Shah Rukh khan ",
         "actorFemale" :"Kajol",
-        "movieName" : "Dilwale"
+        "movieName" : "Dilwale",
+        "image" : "https://a10.gaanacdn.com/images/albums/97/1573497/crop_480x480_1573497.jpg"
+       
+    },
+    {
+        "audioSong" : "https://pagalsong.in/uploads/systemuploads/mp3/Dilwale%20(2015)/Tukur%20Tukur%20[320%20kbps].mp3",
+        "songTitle" : "Tukur Tukur",
+        "singer" : "Arijit Singh ",        
+        "actorMale" :"Shah Rukh khan ",
+        "actorFemale" :"Kajol",
+        "movieName" : "Dilwale",
+        "image" : "https://1.bp.blogspot.com/--AxKHaWx5xE/Vm50A1Q7qhI/AAAAAAAAXzE/vW7qHMNlR6w/s1600/tukur-tukur.jpg"
        
     }
 ]
