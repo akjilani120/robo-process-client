@@ -4,7 +4,8 @@
         "songTitle" : "Aal Izz Well ",
         "singer" : "Sonu Nigam , Swanand Kirkire , Shaan",
         "actorMale" :"Amir Khan ",
-        "movieName" : "3 Idiots"     
+        "movieName" : "3 Idiots" ,
+        "image" : "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY1200_CR101,0,630,1200_AL_.jpg"    
         
     },
     {
@@ -13,7 +14,8 @@
         "singer" : "Suraj Jagan , Sharman Joshi",
         "actorMale" :"Amir Khan ",
         "actorFemale" :"Kajol",
-        "movieName" : "3 Idiots"
+        "movieName" : "3 Idiots",
+        "image" : "https://i.ytimg.com/vi/t--Q-XpFZFA/hqdefault.jpg"
        
     }
 ]

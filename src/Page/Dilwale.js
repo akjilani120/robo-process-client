@@ -10,7 +10,7 @@ const Dilwale = () => {
     }, [])
     return (
         <div className='table-responsive'>
-            <table class="table table-success table-striped px-2 text-center table-hover ">
+            <table class="table bg-white table-striped px-2 text-center table-hover ">
                 <thead>
                     <tr className=''>
                         <th scope="col">No</th>

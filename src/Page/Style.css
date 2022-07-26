@@ -7,6 +7,13 @@
 .movie-name{
     font-size: 25px;
 }
+.music-head{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 40px;
+    
+}
 @media screen and (max-width: 550px) {
     .movie-name{
         font-size: 20px;
