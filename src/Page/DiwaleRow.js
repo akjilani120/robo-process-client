@@ -7,7 +7,7 @@ const DiwaleRow = ({song , index}) => {
     
     const soundHandle =(src ) =>{             
         const sound = new Howl({
-            src : src[id],
+            src ,
             html5: true         
            
           });
@@ -17,15 +17,7 @@ const DiwaleRow = ({song , index}) => {
        
          
     }
-    const handlePause = (src) => {
-        const sound = new Howl({
-            src : src[id],
-            html5: true ,      
-            mute: true
-          });         
-        sound.pause()
-       
-      }
+   
     Howler.volume(0.5);
     return (
         <tr className='row-head' onClick={() =>soundHandle(audioSong , setId(_id)) }  >
