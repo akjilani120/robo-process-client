@@ -4,7 +4,7 @@ import IdiotsRow from './IdiotsRow';
 const Idiots = () => {
     const [idiots, setIdiots] = useState([])
     useEffect(() => {
-        fetch("http://localhost:5000/idiots")
+        fetch("https://stormy-tundra-05584.herokuapp.com/idiots")
             .then(res => res.json())
             .then(data => setIdiots(data))
     }, [])

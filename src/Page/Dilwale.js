@@ -4,7 +4,7 @@ import DiwaleRow from './DiwaleRow';
 const Dilwale = () => {
     const [dilwale, setDiwale] = useState([])
     useEffect(() => {
-        fetch("http://localhost:5000/dilwale")
+        fetch("https://stormy-tundra-05584.herokuapp.com/dilwale")
             .then(res => res.json())
             .then(data => setDiwale(data))
     }, [])
