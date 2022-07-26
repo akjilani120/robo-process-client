@@ -7,7 +7,7 @@ const DiwaleRow = ({song , index}) => {
     
     const soundHandle =(src ) =>{             
         const sound = new Howl({
-            src,
+            src : src[id],
             html5: true         
            
           });
@@ -19,7 +19,7 @@ const DiwaleRow = ({song , index}) => {
     }
     const handlePause = (src) => {
         const sound = new Howl({
-            src,
+            src : src[id],
             html5: true ,      
             mute: true
           });         
@@ -28,10 +28,9 @@ const DiwaleRow = ({song , index}) => {
       }
     Howler.volume(0.5);
     return (
-        <tr className='row-head' >
+        <tr className='row-head' onClick={() =>soundHandle(audioSong , setId(_id)) }  >
         <th>{index + 1}</th>        
-        <td onClick={() =>soundHandle(audioSong , setId(_id)) } ><img className='song-image' src={image} alt="song Image" /></td>
-         <td onClick={() =>handlePause(audioSong) } >Stop sound</td>
+        <td ><img className='song-image' src={image} alt="song Image" /></td>       
         <td>{songTitle}</td>
         <td>{singer}</td>
         <td>{actorMale}</td>
